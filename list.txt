@@ -1,4 +1,7 @@
-total 49
+total 49 yuhan
+
+// 이거 된다고요?
+// 말이 안돼요 에이
 drwxr-xr-x 1 a4077 197609     0 Apr 17 11:10 ./
 drwxr-xr-x 1 a4077 197609     0 Apr 17 10:47 ../
 drwxr-xr-x 1 a4077 197609     0 Apr 17 10:47 .git/
